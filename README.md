@@ -12,3 +12,4 @@ different cases [referenced in index.ts](https://github.com/MoSattler/exporter/b
 
 - Cleaned up the code
 - Added some of the points we mentioned in the interview (queue, failure handling)
+- moced up the data sources
